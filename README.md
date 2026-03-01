@@ -4,8 +4,6 @@ I'm a passionate developer and tech enthusiast who loves building practical, rea
 
 I am currently actively seeking **internship opportunities** where I can tackle complex problems, contribute to impactful projects, and continue growing my technical skillset.
 
-🌐 **Check out my full portfolio:** [gabriel-wan.github.io](https://gabriel-wan.github.io)
-
 **🛠️ Technical Arsenal:**
 * **Programming Languages:** Python, Java, JavaScript, C, HTML, CSS
 * **Frameworks & Libraries:** Node.js, Express.js, SQLite, Pandas, NumPy, Scikit-Learn
