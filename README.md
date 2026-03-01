@@ -15,4 +15,4 @@ I am currently actively seeking **internship opportunities** where I can tackle 
 * [**Angels & Mortals Event Bot**](https://github.com/Garuda-Techs/AnM-Bot): A Python-based Telegram bot designed to facilitate a large-scale university social game, featuring automated participant matching, task tracking, and anonymous messaging routing.
 
 📫 **Let's Connect!**
-Whether it's for an internship opportunity, a collaboration, or just to chat about tech, I'd love to hear from you! Let's connect on [LinkedIn](YOUR_LINKEDIN_URL_HERE) or reach out via my website.
+Whether it's for an internship opportunity, a collaboration, or just to chat about tech, I'd love to hear from you! Let's connect on [LinkedIn](https://www.linkedin.com/in/gabrielwanjp/) or reach out via my website.
