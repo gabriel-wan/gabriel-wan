@@ -1,18 +1,43 @@
-### Hi there, I'm Gabriel! 👋
+# Gabriel Wan
 
-I'm a passionate developer and tech enthusiast who loves building practical, real-world tools that people actually use. Recently, I built and deployed a full-stack scheduling application that actively serves 130+ users in my university residential community! 
+**Computer Science @ NUS · Software Engineering · Applied AI · Product**
 
-I am currently actively seeking **internship opportunities** where I can tackle complex problems, contribute to impactful projects, and continue growing my technical skillset.
+> I turn messy, real-world problems into simple software people can actually use.
 
-**🛠️ Technical Arsenal:**
-* **Programming Languages:** Python, Java, JavaScript, C, HTML, CSS
-* **Frameworks & Libraries:** Node.js, Express.js, SQLite, Pandas, NumPy, Scikit-Learn
-* **Tools & Cloud:** Git/GitHub, Google Cloud Platform (GCP), Railway, Heroku, Jira
-* **Certifications:** Google Professional Machine Learning Engineer, Harvard CS50x, Harvard CS50P
+### `// what I build`
 
-**🚀 Featured Projects:**
-* [**Residential Lounge Booking Bot**](https://github.com/Garuda-Techs/LoungeBookingBot): A full-stack Telegram Mini App managing facility bookings. Built with Node.js and SQLite, featuring smart UI slot-grouping, robust data sanitization, and server-side role-based access control.
-* [**Angels & Mortals Event Bot**](https://github.com/Garuda-Techs/AnM-Bot): A Python-based Telegram bot designed to facilitate a large-scale university social game, featuring automated participant matching, task tracking, and anonymous messaging routing.
+**01 — Software**  
+Full-stack products, backend systems, and developer tools built for real users.
 
-📫 **Let's Connect!**
-Whether it's for an internship opportunity, a collaboration, or just to chat about tech, I'd love to hear from you! Let's connect on [LinkedIn](https://www.linkedin.com/in/gabrielwanjp/) or reach out via my website.
+**02 — Applied AI**  
+Practical AI features that improve the product—not AI for its own sake.
+
+**03 — Automation**  
+Replacing repetitive, manual workflows with reliable software.
+
+**04 — Products**  
+Taking ideas from unclear problem → working prototype → deployed product.
+
+### `// currently`
+
+- 🎓 Studying Computer Science at the **National University of Singapore**
+- 🛠️ Building full-stack products and experimenting with practical AI
+- 🚀 Open to software engineering internships and interesting problems
+
+### `// stack`
+
+**Languages**  
+Python · Java · TypeScript/JavaScript · C · SQL
+
+**Development**  
+React · Next.js · Node.js · Fastify · Flask
+
+**Data & Infrastructure**  
+Firebase · ClickHouse · SQLite · Docker
+
+**Tools**  
+Git · GitHub
+
+### `// elsewhere`
+
+[🌐 Portfolio](https://gabrielwan.me) · [💼 LinkedIn](https://linkedin.com/in/gabrielwanjp)
