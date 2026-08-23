@@ -1,43 +1,33 @@
 # Gabriel Wan
 
-**Computer Science @ NUS · Software Engineering · Applied AI · Product**
+Computer Science undergraduate at NUS. I enjoy turning messy, real-world problems into simple software people can actually use—especially through full-stack development, practical AI, and automation.
 
-> I turn messy, real-world problems into simple software people can actually use.
+<pre>
+gabriel@nus:~$ interests
 
-### `// what I build`
+software engineering  ·  backend systems  ·  applied AI
+automation            ·  product
 
-**01 — Software**  
-Full-stack products, backend systems, and developer tools built for real users.
 
-**02 — Applied AI**  
-Practical AI features that improve the product—not AI for its own sake.
+gabriel@nus:~$ stack
 
-**03 — Automation**  
-Replacing repetitive, manual workflows with reliable software.
+Python  ·  Java  ·  TypeScript  ·  JavaScript  ·  C  ·  SQL
+React  ·  Next.js  ·  Node.js  ·  Fastify  ·  Flask
+Firebase  ·  ClickHouse  ·  SQLite  ·  Docker  ·  Git
 
-**04 — Products**  
-Taking ideas from unclear problem → working prototype → deployed product.
 
-### `// currently`
+gabriel@nus:~$ currently
 
-- 🎓 Studying Computer Science at the **National University of Singapore**
-- 🛠️ Building full-stack products and experimenting with practical AI
-- 🚀 Open to software engineering internships and interesting problems
+→ building useful things
+→ learning fast
+→ occasionally breaking things to understand them
+→ open to software engineering internships
 
-### `// stack`
 
-**Languages**  
-Python · Java · TypeScript/JavaScript · C · SQL
+gabriel@nus:~$ open links
 
-**Development**  
-React · Next.js · Node.js · Fastify · Flask
+<a href="https://gabrielwan.me">portfolio</a>  ·  <a href="https://linkedin.com/in/gabrielwanjp">linkedin</a>
 
-**Data & Infrastructure**  
-Firebase · ClickHouse · SQLite · Docker
 
-**Tools**  
-Git · GitHub
-
-### `// elsewhere`
-
-[🌐 Portfolio](https://gabrielwan.me) · [💼 LinkedIn](https://linkedin.com/in/gabrielwanjp)
+gabriel@nus:~$ █
+</pre>
