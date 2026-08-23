@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="28" viewBox="0 0 142 28" role="img" aria-labelledby="title">
+  <title id="title">Purple terminal prompt: gabriel at NUS</title>
+  <circle cx="7" cy="14" r="5" fill="#8B5CF6"/>
+  <text x="19" y="18.5" fill="#8B5CF6" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="13" font-weight="600">gabriel@nus:~</text>
+</svg>
+
