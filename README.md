@@ -2,7 +2,9 @@
 
 **Computer Science @ NUS**
 
-I like turning messy, real-world problems into software people actually use.
+I like turning messy, real-world problems into **software people actually use**.
+
+<img src="./assets/terminal-prompt.svg" alt="Purple terminal prompt: gabriel at NUS" height="28">
 
 <pre>
 gabriel@nus:~$ interests
@@ -21,17 +23,7 @@ gabriel@nus:~$ currently
 → learning fast
 → shipping often
 
-gabriel@nus:~$ █
+gabriel@nus:~$ open links
+<a href="https://gabrielwan.me">portfolio</a> · <a href="https://linkedin.com/in/gabrielwanjp">linkedin</a>
 </pre>
-
-### `// recently shipped`
-
-- [KopiKaki](https://github.com/gabriel-wan/kopikaki) — voice-first social platform
-- [UWash](https://github.com/gabriel-wan/uwash-bot) — IoT laundry monitoring
-- [Community-Powered Emergency Fund](https://github.com/gabriel-wan/hackomania_interledger) — disaster relief infrastructure
-- [Lounge Booking](https://github.com/Garuda-Techs/LoungeBookingBot) — facility bookings for 130+ residents
-
-### `// links`
-
-[Portfolio](https://gabrielwan.me) · [LinkedIn](https://linkedin.com/in/gabrielwanjp)
 
