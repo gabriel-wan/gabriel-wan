@@ -2,17 +2,12 @@
 
 I like turning messy, real-world problems into **software people actually use**.
 
-<img src="./assets/terminal-command-projects.svg" alt="gabriel at NUS command: ls projects" height="23">
+<img src="./assets/terminal-command-currently.svg" alt="gabriel at NUS command: currently" height="23">
 
 <pre>
-<a href="https://github.com/gabriel-wan/tencent-hackathon-fintech"><b>KnowBuddy</b></a>         permission-aware RAG over Slack, Drive, Jira and Confluence
-                  0 permission leaks in evaluation · 30/30 prompt-injection attacks resisted
-<a href="https://github.com/gabriel-wan/mini-gabriel"><b>mini-gabriel</b></a>      Qwen3-8B fine-tuned with LoRA to write like me
-                  style distance cut 83% vs. the base model · runs on a laptop CPU
-<a href="https://github.com/gabriel-wan/kopikaki"><b>KopiKaki</b></a>          voice-first meetups for seniors, built on Gemini Live function calling
-<a href="https://github.com/Hypovolemic/uwash-bot"><b>UWash</b></a>             IoT laundry tracking for UTown · Top 8, NUS Student Life Hackathon 2026
-<a href="https://github.com/Garuda-Techs/LoungeBookingBot"><b>LoungeBookingBot</b></a>  Telegram Mini App for booking residence lounges · 130+ users
-<a href="https://github.com/8starlabs/ui"><b>8starlabs/ui</b></a>      open-source contributor · component library built on shadcn/ui
+→ <a href="https://github.com/gabriel-wan/tencent-hackathon-fintech"><b>KnowBuddy</b></a>        permission-aware RAG over Slack, Drive, Jira and Confluence
+→ <a href="https://github.com/gabriel-wan/mini-gabriel"><b>mini-gabriel</b></a>     fine-tuning an LLM to write like me
+→ <a href="https://github.com/gabriel-wan/nus-gym-tracker"><b>nus-gym-tracker</b></a>  Telegram bot logging NUS gym crowds every 5 minutes
 </pre>
 
 <img src="./assets/terminal-command-stack.svg" alt="gabriel at NUS command: stack" height="23">
