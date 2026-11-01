@@ -24,5 +24,3 @@ frontend     React · Next.js · Firebase
 <pre>
 <a href="https://gabrielwan.me">portfolio</a> · <a href="https://linkedin.com/in/gabrielwanjp">linkedin</a>
 </pre>
-
-<img src="./koi/koi.gif" alt="A pixel-art koi drawn nightly from my GitHub activity" width="256">
